@@ -1,0 +1,7 @@
+{
+  "name": "The Treasury Snapshot",
+  "description": "Standalone offline executive treasury dashboard for consolidating global cash balances and analyzing currency risk.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

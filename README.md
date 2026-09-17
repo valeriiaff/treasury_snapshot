@@ -3,6 +3,7 @@
 **The Treasury Snapshot** is a simple, offline-first dashboard for tracking multi-currency cash balances, converting them into a single currency, and spotting liquidity risks.
 
 ---
+DEMO: https://treasury-snapshot-liard.vercel.app/
 
 ## 💡 What Does It Do?
 
